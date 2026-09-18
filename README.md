@@ -1,3 +1,2 @@
 
-
-This is my Git practice project.
+This is my Git practice project - Version B.
